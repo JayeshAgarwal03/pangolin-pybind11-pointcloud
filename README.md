@@ -1,6 +1,7 @@
 # pangolin-pybind11-pointcloud
 # Results
-![Alt Text](Screenshot from 2025-03-20 01-40-02.png)
+![Point Cloud](./Screenshot_from_2025-03-20_01-40-02.png)
+
 
 # Configure and build
 cmake -B build
