@@ -1,6 +1,6 @@
 # pangolin-pybind11-pointcloud
 # Results
-![Point Cloud](./Screenshot_from_2025-03-20_01-40-02.png)
+
 ![Point Cloud](https://github.com/JayeshAgarwal03/pangolin-pybind11-pointcloud/blob/main/Screenshot%20from%202025-03-20%2001-40-02.png)
 
 
